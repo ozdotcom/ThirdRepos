@@ -1,0 +1,54 @@
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\bin\Debug\MyNameSpace.exe
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.exe
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.pdb
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.exe
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.pdb
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\bin\Debug\MyNameSpace.exe
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\bin\Debug\MyNameSpace.pdb
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session01\MyInitial\bin\Debug\MyNameSpace.exe.config
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\bin\Debug\MyNameSpace.exe.config
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\bin\Debug\MyNameSpace.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\bin\Debug\MyNameSpace.pdb
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.pdb
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\bin\Debug\MyNameSpace.exe.config
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.exe
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.pdb
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\bin\Debug\MyNameSpace.exe
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\bin\Debug\MyNameSpace.pdb
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+D:\MyTafe\2018_S1\5TSD\Resources\Session01\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\bin\Debug\MyNameSpace.exe
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.cache
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyInitial.csproj.CoreCompileInputs.cache
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.exe
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.pdb
