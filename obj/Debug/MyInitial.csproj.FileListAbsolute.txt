@@ -52,3 +52,6 @@ C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro 
 C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyInitial.csproj.CoreCompileInputs.cache
 C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.exe
 C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 01 - Intro to Version Control System & Git Bash Commands\Lab01_Student_Files\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\ThirdRepos\MyInitial\obj\Debug\MyInitial.csproj.AssemblyReference.cache
+C:\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.exe
+C:\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.pdb
